@@ -4,6 +4,8 @@ body {
     font-family: "bilo", sans-serif;
     font-weight: 500;
     font-style: normal;
+    background-color: #F5F1D6;
+    color: #5C4800;
  }
 
  .boo {
@@ -16,7 +18,7 @@ body {
 
 
  img {
-    width: 300px;
+    width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -77,20 +79,20 @@ body {
   p {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-right: 200px;
+    margin-left: 150px;
   }
 
 
   ul {
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-right: 200px;
+    margin-left: 200px;
 
   }
 
   ol {
-    margin-right: 150px;
-    margin-left: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
   }
 
   .image-container {
@@ -109,4 +111,8 @@ footer {
   margin-top: 20px;
   margin-bottom: 90px;
   text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
 }
