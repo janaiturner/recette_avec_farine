@@ -1,1 +1,112 @@
 /* Place CSS styles here */
+
+body {
+    font-family: "bilo", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+ }
+
+ .boo {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 80px;
+ }
+
+
+
+ img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+
+.recipe {
+    text-align: center;
+}
+
+
+.container {
+    align-items: center; 
+    float: left;
+  }
+  .image{
+      float: left;
+    padding: 5px;
+  }
+
+
+  .paragraph {
+    font-size: 20px;
+    font-style: bold;
+    text-align: center;
+  }
+  
+  h1 {
+    font-style: bold;
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+  h4 {
+    text-align: center;
+  }
+
+  h5{
+    text-align: center;
+  }
+
+  h6 {
+    text-align: center;
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+
+  ul {
+    margin-right: 150px;
+    margin-left: 80px;
+
+  }
+
+  ol {
+    margin-right: 150px;
+    margin-left: 100px;
+  }
+
+  .image-container {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100vh; /* Full viewport height */
+}
+
+
+img {
+    max-width: 100%; /* Ensure images don't exceed their container */
+}
+
+footer {
+  margin-top: 20px;
+  margin-bottom: 90px;
+  text-align: center;
+}
