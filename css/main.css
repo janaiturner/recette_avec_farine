@@ -79,14 +79,14 @@ body {
   p {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-right: 200px;
-    margin-left: 150px;
+    margin-right: 300px;
+    margin-left: 250px;
   }
 
 
   ul {
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 300px;
+    margin-left: 300px;
 
   }
 
@@ -116,3 +116,4 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
