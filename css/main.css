@@ -48,10 +48,13 @@ body {
   }
   
   h1 {
+    font-family: 'Holtwood One SC', serif;
     font-style: bold;
+    font-size: 100px;
     text-align: center;
     margin-top: 30px; 
     margin-bottom: 10px;
+    line height: 1px;
   }
 
   h2 {
@@ -84,6 +87,7 @@ body {
     margin-right: 400px;
     margin-left: 300px;
   }
+
 
 
   ul {
